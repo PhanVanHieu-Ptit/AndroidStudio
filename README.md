@@ -1,2 +1,2 @@
-# AndroidStudio
+# AndroidlyIntents
 Tu hoc Adroid Studio
